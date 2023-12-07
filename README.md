@@ -7,6 +7,8 @@ To learn more about these two libraries, check out the following links:
 - [elem-go](https://github.com/chasefleming/elem-go)
 - [goldmark](https://github.com/yuin/goldmark)
 
+For a deeper walkthrough of how to use this template, check out the [elem-ssg Tutorial](https://dev.to/chasefleming/building-a-go-static-site-generator-using-elem-go-3fhh).
+
 ## Usage
 
 To use this template, click the green "Use this template" button at the top of the page. This will create a new repository in your account with the contents of this template.
