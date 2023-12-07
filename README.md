@@ -2,6 +2,10 @@
 
 Welcome to the Elem-SSG Template repository! This template is designed for building a static site generator using Go, featuring `elem-go` for HTML templating and `goldmark` for Markdown processing.
 
+To learn more about these two libraries, check out the following links:
+
+- [elem-go](https://github.com/chasefleming/elem-go)
+- [goldmark](https://github.com/yuin/goldmark)
 
 ## Usage
 
